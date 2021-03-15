@@ -11,6 +11,8 @@
   "dependencies": {
     "discord.js": "^12.1.1",
     "moment": "^2.26.0",
-    "ms": "^2.1.2"
+    "ms": "^2.1.2",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2"
   }
 }
